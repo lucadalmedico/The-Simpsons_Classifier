@@ -9,8 +9,12 @@ possa averla detta.
 
 ## Sorgente dei dati
 I dati utilizzati sono stati scaricati da [Kaggle](https://bit.ly/2M50wtO).
-I file utilizzato è *simpsons_script_lines.csv*.
+Il file utilizzato è *simpsons_script_lines.csv*.
+
+
 **N.B.**
+
+
 L'importazione dei dati presenti nel file *simpsons_script_lines.csv* presentava diversi warning dovuti ad errori nel file
 come ad esempio la mancanza di alcune virgolette. Il programma funziona ugualmente, stampando solo errori, ma per
 evitare queste segnalazioni è consigliato utilizzare il file *Data/simpsons_script_lines.csv* presente nella cartella del
